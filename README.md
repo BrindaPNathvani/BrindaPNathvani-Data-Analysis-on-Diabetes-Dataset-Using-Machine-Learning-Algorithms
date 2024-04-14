@@ -1,1 +1,1 @@
-# BrindaPNathvani-Data-Analysis-on-Diabetes-Dataset-Using-Machine-Learning-Algorithms
+# Data-Analysis-on-Diabetes-Dataset-Using-Machine-Learning-Algorithms
